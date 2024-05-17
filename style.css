@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(189, 242, 246);
+}
+form {
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+}
+.form_container{
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding: 10px;
+}
+.name{
+    display: flex;
+}
+.radio_op1{
+    border: 1px solid;
+}
+.radio_op2{
+    border-radius: 1px solid;
+}
